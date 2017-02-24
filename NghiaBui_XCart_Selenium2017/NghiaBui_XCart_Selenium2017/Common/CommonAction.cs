@@ -7,7 +7,7 @@ using NghiaBui_XCart_Selenium2017.Pages;
 
 namespace NghiaBui_XCart_Selenium2017.Common
 {
-    class CommonAction
+    static class CommonAction
     {
         public static Homepage OpenHomepage(string URL)
         {
